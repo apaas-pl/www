@@ -71,10 +71,60 @@ zamiast zarządzać infrastrukturą, kreaować ją z inteligencją w odpowiedni 
 
 
 ## What is the difference between iPaaS and aPaaS?
+
+### iPaaS
+iPaaS has integration orchestration, a set of pre-built connectors to standard cloud services and popular on-premise enterprise software like SAP and Oracle Apps.
+it is easier to make vendor choices in this category compared to aPaaS
 + iPaaS is an integration Platform as a Service
-  + 
+  + Integrated & Co-located Suite of cloud services for integration & governance initiatives
+  + Cloud enabled Integration PLatforms CEIP
+  + eCommerce B2B, SOA, Integration Middleware
+  
+
+### aPaaS
+two distinct categories of users/buyers:
+"Independent Software Vendors" (ISVs) that build SaaS using a PaaS solution
+Enterprises that need to build applications that are specific to their needs and differentiated from their competitors.
+
+
+The business goals and motivations of these two buyer groups are in many ways completely different as you can see from the diagram below.  
 + aPaaS is application Platform as a Service
-  +   
+  + Development & Deployment of multi-tenant elastically scalable Business Apps
+  + Cloud enabled Application Platforms (CEAP)
+  + Composite Business Application Platform
+
+### Enterprise IT users
+
+#### Productivity 
+Enterprise IT leaders want their teams to have a highly productive development platform instead of figuring out the nuts and bolts.
+
+#### Time to market
+As we all know, a line of business always has “This is needed yesterday” type demands. Hence, time to market to stay ahead of their competition is a primary motivator.
+
+#### Governance and abstraction
+Every year there are additional governance needs. Enterprise IT knows the easiest way to address governance is by reducing the moving parts. Abstraction is the mantra here.
+
+#### Means to an end
+Enterprises are into their main business of making cars or digging of oil or providing healthcare. They don’t make money selling software. For them, software is a means to an end. Hence the platform of the future needs to address this “means to an end” goal.
+
+### ISVs (Independent Software Vendors) Users
+
+#### Control 
+ISVs look for fine-grain control to be able to choose all the moving parts that go into the platform. This is one of the reasons ISVs generally tend to take the Infrastructure-as-a-Service (IaaS) route instead of the PaaS route.
+
+#### Multi-tenancy
+Ability to service multiple customers on the same infrastructure and take advantage of economy of scale and load offsetting.
+
+#### Coding and granularity
+This is an additional dimension of control, but in a different plane. For example, an ISV may have legitimate reasons for not using ORM (Object Relational Mapping) for their SaaS application and prefer instead to do something on their own. Their SaaS application might demand that.
+
+#### Breadwinner - ISVs’ SaaS offerings are their breadwinner, revenue generator and their IP. They are protective and possessive about these offerings, and this drives lot of their decision making in the kind of platforms they choose.
+
+
+
+
+
+--
 They roughly map to the integration middleware and application middleware in the pre-cloud paradigm
 
 
