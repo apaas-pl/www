@@ -36,25 +36,46 @@ This presents an opportunity to move away from large capital technology expenses
 
 
 
-
-## What is the difference between iPaaS and aPaaS?
-
-
 ### Platform Usage, Lines of Business
 + Modeling driven process/app development
-+ Fast, Iteratove, Visual, Colaborative
++ Fast, Iterative, Visual, Collaborative
 
-### Platform Covernance, Enterprise IT
-+ 
+
+### Platform Governance, Enterprise IT
++  Businnes ValueLiason with LOB
++  Shared Serrice and Support
++  PLatform Capability PLanning & Alligment
 
 ### PLatform Engineering, PaaS Vendor
++ PLatform Capbility
++ Shared Common Infrastructure
++ Architectural Stack and App PLatform
 
 
 ## Post-cloud era
+The platform goes beyond the technology stack. 
+It is a platform that drives business innovation to the core and leverages the knowledge that lies in the fringes of enterprises, where lines of business and enterprise IT come together in bringing to life innovation solutions for their enterprise:
++ agile on each level
++ rapid prototyping
++ collaborative platform
 
+
+### Platform aPaaS
+Collaborative platform for business and technology teams
++ enterpise IT
++ line of businnes
 
 + all is streaming
 zamiast zarządzać infrastrukturą, kreaować ją z inteligencją w odpowiedni spersonalizowany strumień danych i funkcjonalnośći zamiast sformatowanych iu zdefiniowanych struktur aplikacji i baz danych.
+
+
+
+## What is the difference between iPaaS and aPaaS?
++ iPaaS is an integration Platform as a Service
+  + 
++ aPaaS is application Platform as a Service
+  +   
+They roughly map to the integration middleware and application middleware in the pre-cloud paradigm
 
 
 
