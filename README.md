@@ -59,3 +59,38 @@ zamiast zarządzać infrastrukturą, kreaować ją z inteligencją w odpowiedni 
 
 
 
+## why you decided to dockerize your app?
+
+Today’s modern trend is to build applications using the Cloud-Native approach which revolves mainly around the following buzzwords:
+
++ Microservices
++ DevOps
++ Continuous Delivery
+
+Let’s see how these concepts actually affect our decision of dockerizing our app.
+
+### Effects of Microservices
+
+By adopting the microservices architectural style, we end up building a single application as a suite of small services.
++ Each services running in it's own process and communicating with lightweight mechanisms. 
++ These services are built around business capabilities and independently deployable by DevOps (fully automated deployment machinery).
+
+So, committing to this architectural approach most of the time implies developing and delivering our front-end as an independent service.
+
+
+### Effects of DevOps
+
+The adoption of DevOps culture, tools and agile engineering practices has, among other things, the nice effect of increasing the collaboration between the roles of development and operations. One of the main problem of the past (but also today in some realities) is that the dev team tended to be uninterested in the operation and maintenance of a system once it was handed over to the ops team, while the latter tended to be not really aware of the system’s business goals and, therefore, reluctant in satisfying the operational needs of the system (also referred to as “whims of developers”).
+
+So, delivering our app as a Docker image helps reducing, if not removing entirely, the difference between running the service on a developer’s laptop, the production environment or any environment we may think of.
+
+
+###  Effects of Continuous Delivery
+
+By leveraging the Continuous Delivery discipline we build our software in a way that it can potentially be released to production at any time. 
+
+Such engineering practice is enabled by means of what is normally called continuous delivery pipeline. The purpose of a continuous delivery pipeline is to split our build into stages (e.g. compilation, unit tests, integration tests, performance tests, etc.) and let each stage verify our build artifact whenever our software changes. Ultimately, each stage increases our confidence in the production readiness of our build artifact and, therefore, reduces the risk of breaking things in production (or any other environment for that matters).
+
+So, creating a Docker image for our app is a good choice here because that would represent our final build artifact, the same artifact that would be verified against our continuous delivery pipeline and that could potentially be released to production with confidence.
+
+
