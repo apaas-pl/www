@@ -99,13 +99,16 @@ The business goals and motivations of these two buyer groups are in many ways co
 Enterprise IT leaders want their teams to have a highly productive development platform instead of figuring out the nuts and bolts.
 
 #### Time to market
-As we all know, a line of business always has “This is needed yesterday” type demands. Hence, time to market to stay ahead of their competition is a primary motivator.
+As we all know, a line of business always has "This is needed yesterday" type demands. 
++ Hence, time to market to stay ahead of their competition is a primary motivator
 
 #### Governance and abstraction
-Every year there are additional governance needs. Enterprise IT knows the easiest way to address governance is by reducing the moving parts. Abstraction is the mantra here.
+Every year there are additional governance needs. Enterprise IT knows the easiest way to address governance is by reducing the moving parts. 
++ Abstraction is the mantra here.
 
 #### Means to an end
-Enterprises are into their main business of making cars or digging of oil or providing healthcare. They don’t make money selling software. For them, software is a means to an end. Hence the platform of the future needs to address this “means to an end” goal.
+Enterprises are into their main business of making cars or digging of oil or providing healthcare. They don’t make money selling software. For them, software is a means to an end. 
++ Hence the platform of the future needs to address this "means to an end" goal
 
 ### ISVs (Independent Software Vendors) Users
 
@@ -119,6 +122,42 @@ Ability to service multiple customers on the same infrastructure and take advant
 This is an additional dimension of control, but in a different plane. For example, an ISV may have legitimate reasons for not using ORM (Object Relational Mapping) for their SaaS application and prefer instead to do something on their own. Their SaaS application might demand that.
 
 #### Breadwinner - ISVs’ SaaS offerings are their breadwinner, revenue generator and their IP. They are protective and possessive about these offerings, and this drives lot of their decision making in the kind of platforms they choose.
+
+## aPaaS selection criteria
+With this classification of meta-data aPaaS and programming aPaaS, a better picture of the vendor landscape in aPaaS emerges.
+
++ aPaaS players can be classified into "meta-data aPaaS" and "programming aPaaS"
++ Meta-data aPaaS doesn’t mean that there is no possibility of coding
++ 80 percent is meta-data modeling, abstraction driven and APIs
+
+When choosing an aPaaS, enterprises need to look for an aPaaS that:
+
+### CODE
++ Creates and manages business objects and not code
++ Allows resorting to code for extensions
+
+### LOGIC
++ Defines business processes through a workflow engine
++ Implements logic using business rules instead of burying them in code
+
+### INTERFACE
++ Includes drag-and-drop UI creation for easy change management
++ Ensures all business objects are SOA compliant through REST/SOAP
++ Provides multi-device support
+  + apps should be accessible from desktops and mobile devices including laptops, tablets and smartphones
+
+### META-DATA
++ Provides a library of template applications to get off the ground quickly
++ Enables the ability to run on-premise and in private and public clouds.
+  + This is a very important criterion when choosing a "platform of the future" especially in an enterprise context
+
+
+## Summary
+
++ iPaaS is less complicated than aPaas to implement as a Service
++ History has proved time and again that large established incumbents rarely offer paradigm shifts.
++ Enterprises need to look beyond their comfort zones into new players that offer aPaaS that could put them ahead of the competition.
+
 
 
 
