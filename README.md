@@ -6,7 +6,7 @@
 
 ## Tom Sapletta, DevOps Engineer at Softreck
 
-Pre-integrated stack of technology that we call "platform" should have happened around the 2003-05 timeframe. 
+Pre-integrated stack of technology that we call "platform" should have happened around the 2003 timeframe. 
 Hence the PaaS solutions we know of today in my view are only a necessary condition and not sufficient to really help large enterprises with where they need to go.
 
 ## Pre-cloud era
@@ -162,7 +162,8 @@ When choosing an aPaaS, enterprises need to look for an aPaaS that:
 
 
 
---
+---
+
 They roughly map to the integration middleware and application middleware in the pre-cloud paradigm
 
 
