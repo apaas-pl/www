@@ -6,7 +6,6 @@
 
 ## Tom Sapletta, DevOps Engineer at Softreck
 
-I will delve deeper into meta-data aPaaS and general purpose programming aPaaS and provide key points that help enterprises choose the right aPaaS.
 Pre-integrated stack of technology that we call "platform" should have happened around the 2003-05 timeframe. 
 Hence the PaaS solutions we know of today in my view are only a necessary condition and not sufficient to really help large enterprises with where they need to go.
 
