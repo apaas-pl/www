@@ -69,7 +69,18 @@ zamiast zarządzać infrastrukturą, kreaować ją z inteligencją w odpowiedni 
 
 
 
-## What is the difference between iPaaS and aPaaS?
+## What is the difference between iPaaS, aPaaS, SaaS?
+
+The big three—and most common—are:
++ software as a service (SaaS)
++ infrastructure as a service (IaaS)
++ platform as a service (PaaS)
+
+The third party is providing the software or technology in a subscription business model.
+SaaS, IaaS, and PaaS are widely accepted and understood by most organizations.
+
+
+
 
 ### iPaaS
 iPaaS has integration orchestration, a set of pre-built connectors to standard cloud services and popular on-premise enterprise software like SAP and Oracle Apps.
@@ -93,7 +104,23 @@ IPaaS can be addressed as a platform solution where you can manage and develop c
 
 
 ### aPaaS
-two distinct categories of users/buyers:
+
+The aPaaS provides app development projects with underlying infrastructure and a software layer for the actual development and design. 
+Instead of installing a downloaded development tool or using a coding tool to create your application and handing it off to be deployed
++ you are subscribing to a service that provides all that for you. 
+
+
+#### no development experience
+aPaaS give tools to build and deliver apps much faster.
++ Reusable components,
++ visual IDEs
++ abstraction and automation streamline application development
++ provisioning and deployment.
+ 
+The aPaaS it's opportunity to build applications while enabling professional developers to bypass repetitive, boring tasks so they can focus on solving business problems with unique applications.
+
+
+## Two distinct categories of users/buyers:
 "Independent Software Vendors" (ISVs) that build SaaS using a PaaS solution
 Enterprises that need to build applications that are specific to their needs and differentiated from their competitors.
 
