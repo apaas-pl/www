@@ -1,7 +1,7 @@
 ![aPaaS](https://logo.apaas.pl/1/cover.png)
 # aPaaS.pl
-
-+ [Strona informacyjna www](https://www.apaas.pl/)
++ [Strona informacyjna - github.com/apaas-pl/www](https://github.com/apaas-pl/www)
++ [Strona informacyjna - www.apaas.pl](https://www.apaas.pl/)
 + [Dokumentacja aPaaS](https://docs.apaas.pl/)
 
 ## Tom Sapletta, DevOps Engineer at Softreck
