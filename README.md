@@ -80,6 +80,13 @@ The third party is providing the software or technology in a subscription busine
 SaaS, IaaS, and PaaS are widely accepted and understood by most organizations.
 
 
+### SaaS
+
+#### SaaS (Software as a Service) Highlights:
++ Customization and configuration
++ Accelerated feature delivery
++ Open integration protocols
++ Collaborative and social functionality
 
 
 ### iPaaS
