@@ -112,6 +112,9 @@ IPaaS can be addressed as a platform solution where you can manage and develop c
 
 ### aPaaS
 
+aPaaS allows for rapid application development and delivery.
+The coding process for platforms as a service can slow down delivery, but aPaaS brings automation for the application lifecycle.
+
 The aPaaS provides app development projects with underlying infrastructure and a software layer for the actual development and design. 
 Instead of installing a downloaded development tool or using a coding tool to create your application and handing it off to be deployed
 + you are subscribing to a service that provides all that for you. 
