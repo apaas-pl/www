@@ -74,11 +74,23 @@ zamiast zarządzać infrastrukturą, kreaować ją z inteligencją w odpowiedni 
 ### iPaaS
 iPaaS has integration orchestration, a set of pre-built connectors to standard cloud services and popular on-premise enterprise software like SAP and Oracle Apps.
 it is easier to make vendor choices in this category compared to aPaaS
-+ iPaaS is an integration Platform as a Service
-  + Integrated & Co-located Suite of cloud services for integration & governance initiatives
-  + Cloud enabled Integration PLatforms CEIP
-  + eCommerce B2B, SOA, Integration Middleware
-  
+
+#### iPaaS with EDI (Electronic Data Interchange) applications
+IPaaS can be addressed as a platform solution where you can manage and develop connected application integration in one place.
+
+
+#### iPaaS is an integration Platform as a Service
++ Integrated & Co-located Suite of cloud services for integration & governance initiatives
++ Cloud enabled Integration PLatforms CEIP
++ eCommerce B2B, SOA, Integration Middleware
+
+#### IPaaS (Integration Platform as a Service) Highlights
++ Scalability  
++ Cloud-specific functions
++ Management of integrations
++ Capable of integrating new & legacy applications
+
+
 
 ### aPaaS
 two distinct categories of users/buyers:
@@ -87,10 +99,24 @@ Enterprises that need to build applications that are specific to their needs and
 
 
 The business goals and motivations of these two buyer groups are in many ways completely different as you can see from the diagram below.  
-+ aPaaS is application Platform as a Service
-  + Development & Deployment of multi-tenant elastically scalable Business Apps
-  + Cloud enabled Application Platforms (CEAP)
-  + Composite Business Application Platform
+
+#### aPaaS is application Platform as a Service
++ Development & Deployment of multi-tenant elastically scalable Business Apps
++ Cloud enabled Application Platforms (CEAP)
++ Composite Business Application Platform
+
+
+#### APaaS (Application Platform as a Service) Highlights
++ Scalability:
+  + load balancing
+  + failover
++ Web-based user interface
++ Multi-tenant architecture
++ Services to develop:
+  + test,
+  + deploy,
+  + host, and maintain applications
+
 
 ### Enterprise IT users
 
