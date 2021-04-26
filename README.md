@@ -151,6 +151,17 @@ The business goals and motivations of these two buyer groups are in many ways co
   + deploy,
   + host, and maintain applications
 
+#### Low-Code on Application Platform as a Service
+
+Low-code application development is more a method than a service.
++ visual IDE
++ one-click deployment
++ code generation
++ and more automatisation
+
+In fact, there are on-premises installations of low-code platforms. 
+However, it’s no accident that Salesforce, Appian, Mendix, and OutSystems appear in lists of aPaaS examples.
+
 
 ### Enterprise IT users
 
